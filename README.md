@@ -17,6 +17,7 @@ The goal of this repository is to build a strong programming foundation for **Da
 * ✅ Tuples
 * ✅ Dictionaries
 * ✅ Sets
+* ✅ Conditionl Expression
 
 ## 🎯 Learning Goals
 
